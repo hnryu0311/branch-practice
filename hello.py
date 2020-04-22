@@ -1,3 +1,4 @@
 for i in range(1, 100):
-    print("hello world")
+    if i % 3 == 0:
+        print("fizz")
 
